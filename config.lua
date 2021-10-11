@@ -21,16 +21,16 @@ QB.Spawns = {
         location = "paleto",
         label = "Paleto Bay",
     },
-    -- ["motel"] = {
-    --     coords = {
-    --         x = 326.29, 
-    --         y = -212.31, 
-    --         z = 55.08, 
-    --         h = 282.91 
-    -- }, 
-    --     location = "motel",
-    --     label = "Pinkcage Motel",
-    -- },
+    ["motel"] = {
+        coords = {
+            x = 326.29, 
+            y = -212.31, 
+            z = 55.08, 
+            h = 282.91 
+    }, 
+        location = "motel",
+        label = "Pinkcage Motel",
+    },
     ["bus"] = {
         coords = { 
         x = 454.349, 
